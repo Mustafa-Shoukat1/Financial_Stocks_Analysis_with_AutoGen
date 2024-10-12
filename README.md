@@ -1,6 +1,7 @@
 # 📈 Stock YTD Gain Analysis
 
 This project offers an automated solution for generating and visualizing Year-to-Date (YTD) stock gains for specific stocks. Using Python, it retrieves stock data, calculates percentage changes, and creates informative visualizations of stock performance over time.
+![image](https://github.com/user-attachments/assets/0b2d0ffa-6b29-463b-b8af-56ca7b48e4fa)
 
 ## 🚀 Features
 
